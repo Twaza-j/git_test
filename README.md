@@ -1,3 +1,3 @@
 # git_test
-Testing git
+Testing my git
 
